@@ -1,7 +1,5 @@
 var numero1 = 18
-var triplo = 18*3
-var subtrair = triplo - 10
-var resultado = 44
+var triplo = numero1*3
+var resultado = triplo - 10
 
-console.log("Resultado do triplo: " + triplo)
-console.log("Resultado da subtração: " + subtrair)
+console.log("Resultado: " + resultado)
