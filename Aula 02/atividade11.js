@@ -1,5 +1,5 @@
 var peso = 60
-var altura = 1.75
-var imc = (peso / (altura * altura))
+var altura = 1.70
+var imc = (peso * (1.70**2))
 
 console.log("O IMC é de: " + imc)

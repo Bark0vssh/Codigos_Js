@@ -1,5 +1,5 @@
-var reais = 1000
-var dolar = 6.15
-var conver = (reais/dolar)
+var real = 500
+var dolar = 5.46
+var conversao = real/dolar
 
-console.log("O Valor convertido é de: " + conver.toFixed(2))
+console.log("O Valor em dolar é de: " + conversao.toFixed(2))
